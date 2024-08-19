@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Experion.PickMyBook.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7add0d717a8f2d1e8750ceccfe690e61b7821f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b71168278d485eb9f55a884bc74b174035bdce9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Experion.PickMyBook.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Experion.PickMyBook.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
