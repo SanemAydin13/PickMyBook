@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Experion.PickMyBook.Data\Experion.PickMyBook.Data.csproj" />
+    <ProjectReference Include="..\Experion.PickMyBook.Infrastructure\Experion.PickMyBook.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

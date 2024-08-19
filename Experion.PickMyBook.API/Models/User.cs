@@ -1,4 +1,5 @@
-﻿namespace Experion.PickMyBook.API.Models
+﻿using Experion.PickMyBook.Data;
+namespace Experion.PickMyBook.API.Models
 {
     public class User
     {
