@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="HotChocolate.AspNetCore" Version="13.9.11" />
+    <PackageReference Include="HotChocolate.Data" Version="13.9.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
@@ -15,7 +26,12 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="..\Experion.PickMyBook.Infrastructure\Experion.PickMyBook.Infrastructure.csproj" />
+=======
+    <ProjectReference Include="..\Experin.PickMyBook.GraphQL\Experin.PickMyBook.GraphQL.csproj" />
+    <ProjectReference Include="..\Experion.PickMyBook.Data\Experion.PickMyBook.Data.csproj" />
+>>>>>>> 3e13842c7a12fbdf68cfc9c732c42397eb3a3914
   </ItemGroup>
 
 </Project>

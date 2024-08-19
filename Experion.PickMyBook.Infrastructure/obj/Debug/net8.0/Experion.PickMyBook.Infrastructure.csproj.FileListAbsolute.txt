@@ -1,0 +1,12 @@
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\bin\Debug\net8.0\Experion.PickMyBook.Infrastructure.deps.json
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\bin\Debug\net8.0\Experion.PickMyBook.Infrastructure.dll
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\bin\Debug\net8.0\Experion.PickMyBook.Infrastructure.pdb
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\Experion.PickMyBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\Experion.PickMyBook.Infrastructure.AssemblyInfoInputs.cache
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\Experion.PickMyBook.Infrastructure.AssemblyInfo.cs
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\Experion.PickMyBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\Experion.PickMyBook.Infrastructure.sourcelink.json
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\Experion.PickMyBook.Infrastructure.dll
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\refint\Experion.PickMyBook.Infrastructure.dll
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\Experion.PickMyBook.Infrastructure.pdb
+C:\OJT\PickMyBook\Experion.PickMyBook.Infrastructure\obj\Debug\net8.0\ref\Experion.PickMyBook.Infrastructure.dll
