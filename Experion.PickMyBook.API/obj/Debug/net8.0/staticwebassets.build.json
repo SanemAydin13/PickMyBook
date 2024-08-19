@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wAhygmcAWFBcq3kHOnAgeb986DNV6NDl4uGnTgN9JhE=",
+  "Source": "Experion.PickMyBook.API",
+  "BasePath": "_content/Experion.PickMyBook.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
