@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gopika.vinod\\Desktop\\Experion.PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj": {}
+    "C:\\OJT\\PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gopika.vinod\\Desktop\\Experion.PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj": {
+    "C:\\OJT\\PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gopika.vinod\\Desktop\\Experion.PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj",
+        "projectUniqueName": "C:\\OJT\\PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj",
         "projectName": "Experion.PickMyBook.Infrastructure",
-        "projectPath": "C:\\Users\\gopika.vinod\\Desktop\\Experion.PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\gopika.vinod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gopika.vinod\\Desktop\\Experion.PickMyBook\\Experion.PickMyBook.Infrastructure\\obj\\",
+        "projectPath": "C:\\OJT\\PickMyBook\\Experion.PickMyBook.Infrastructure\\Experion.PickMyBook.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\anish.korah\\.nuget\\packages\\",
+        "outputPath": "C:\\OJT\\PickMyBook\\Experion.PickMyBook.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gopika.vinod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anish.korah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

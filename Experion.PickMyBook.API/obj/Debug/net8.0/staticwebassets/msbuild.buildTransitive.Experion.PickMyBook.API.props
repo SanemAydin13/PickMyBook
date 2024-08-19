@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Experion.PickMyBook.API.props" />
+</Project>

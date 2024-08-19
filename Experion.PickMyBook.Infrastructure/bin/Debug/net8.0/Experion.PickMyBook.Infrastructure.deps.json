@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Experion.PickMyBook.Infrastructure/1.0.0": {
+        "runtime": {
+          "Experion.PickMyBook.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Experion.PickMyBook.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
