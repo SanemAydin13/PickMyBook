@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Experin.PickMyBook.GraphQL\Experin.PickMyBook.GraphQL.csproj" />
+    <ProjectReference Include="..\Experin.PickMyBook.GraphQL\Experion.PickMyBook.GraphQL.csproj" />
     <ProjectReference Include="..\Experion.PickMyBook.Data\Experion.PickMyBook.Data.csproj" />
   </ItemGroup>
 

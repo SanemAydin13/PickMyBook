@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Experion.PickMyBook.Busines
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Experion.PickMyBook.API", "Experion.PickMyBook.API\Experion.PickMyBook.API.csproj", "{C3A34B94-ACE7-40A4-84A8-97A81EC3EA45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experin.PickMyBook.GraphQL", "Experin.PickMyBook.GraphQL\Experin.PickMyBook.GraphQL.csproj", "{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experion.PickMyBook.GraphQL", "Experin.PickMyBook.GraphQL\Experion.PickMyBook.GraphQL.csproj", "{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

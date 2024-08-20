@@ -5,9 +5,6 @@ C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\Experion.PickMyBook.A
 C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\Experion.PickMyBook.API.csproj.CoreCompileInputs.cache
 C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\Experion.PickMyBook.API.MvcApplicationPartsAssemblyInfo.cache
 C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\Experion.PickMyBook.API.sourcelink.json
-C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experin.PickMyBook.GraphQL.deps.json
-C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experin.PickMyBook.GraphQL.runtimeconfig.json
-C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experin.PickMyBook.GraphQL.exe
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\appsettings.Development.json
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\appsettings.json
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.API.exe
@@ -119,10 +116,8 @@ C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\ru\Microsoft.CodeAnal
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experin.PickMyBook.GraphQL.dll
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.Data.dll
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.Infrastructure.dll
-C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experin.PickMyBook.GraphQL.pdb
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.Data.pdb
 C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.Infrastructure.pdb
 C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\Experion.PickMyBook.API.MvcApplicationPartsAssemblyInfo.cs
@@ -140,3 +135,8 @@ C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\refint\Experion.PickM
 C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\Experion.PickMyBook.API.pdb
 C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\Experion.PickMyBook.API.genruntimeconfig.cache
 C:\OJT\PickMyBook\Experion.PickMyBook.API\obj\Debug\net8.0\ref\Experion.PickMyBook.API.dll
+C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.GraphQL.deps.json
+C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.GraphQL.runtimeconfig.json
+C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.GraphQL.exe
+C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.GraphQL.dll
+C:\OJT\PickMyBook\Experion.PickMyBook.API\bin\Debug\net8.0\Experion.PickMyBook.GraphQL.pdb

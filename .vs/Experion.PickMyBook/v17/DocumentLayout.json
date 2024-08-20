@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\OJT\\PickMyBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3A34B94-ACE7-40A4-84A8-97A81EC3EA45}|Experion.PickMyBook.API\\Experion.PickMyBook.API.csproj|c:\\ojt\\pickmybook\\experion.pickmybook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3A34B94-ACE7-40A4-84A8-97A81EC3EA45}|Experion.PickMyBook.API\\Experion.PickMyBook.API.csproj|c:\\ojt\\pickmybook\\experion.pickmybook.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C3A34B94-ACE7-40A4-84A8-97A81EC3EA45}|Experion.PickMyBook.API\\Experion.PickMyBook.API.csproj|solutionrelative:experion.pickmybook.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|c:\\ojt\\pickmybook\\experin.pickmybook.graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C396ED-EB3C-4D73-9B91-FD1861BFE03E}|Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj|solutionrelative:experin.pickmybook.graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Experin.PickMyBook.GraphQL\\UserType.cs",
               "ToolTip": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\UserType.cs",
               "RelativeToolTip": "Experin.PickMyBook.GraphQL\\UserType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T10:39:50.565Z",
               "EditorCaption": ""
@@ -67,12 +67,11 @@
               "RelativeToolTip": "Experin.PickMyBook.GraphQL\\BookType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:39:44.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:39:44.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Query.cs",
               "DocumentMoniker": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\Query.cs",
               "RelativeDocumentMoniker": "Experin.PickMyBook.GraphQL\\Query.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "Experin.PickMyBook.GraphQL\\Query.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:39:35.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:39:35.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\OJT\\PickMyBook\\Experion.PickMyBook.API\\Program.cs",
               "RelativeDocumentMoniker": "Experion.PickMyBook.API\\Program.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "Experion.PickMyBook.API\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:30:48.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:30:48.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\Program.cs",
               "RelativeDocumentMoniker": "Experin.PickMyBook.GraphQL\\Program.cs",
@@ -106,12 +103,11 @@
               "RelativeToolTip": "Experin.PickMyBook.GraphQL\\Program.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAABQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:30:29.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:30:29.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\OJT\\PickMyBook\\Experion.PickMyBook.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Experion.PickMyBook.API\\Properties\\launchSettings.json",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Experion.PickMyBook.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAABIAAAAAAAAAAAAiwB4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-19T10:28:50.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:28:50.902Z"
             }
           ]
         }

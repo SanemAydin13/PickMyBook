@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Experion.PickMyBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f467b5ea35fb668b19c6e03cfa521451c444832c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e13842c7a12fbdf68cfc9c732c42397eb3a3914")]
 [assembly: System.Reflection.AssemblyProductAttribute("Experion.PickMyBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Experion.PickMyBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

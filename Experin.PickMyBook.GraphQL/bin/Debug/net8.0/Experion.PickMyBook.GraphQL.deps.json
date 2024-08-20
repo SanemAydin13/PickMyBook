@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Experin.PickMyBook.GraphQL/1.0.0": {
+      "Experion.PickMyBook.GraphQL/1.0.0": {
         "dependencies": {
           "Experion.PickMyBook.Data": "1.0.0",
           "Experion.PickMyBook.Infrastructure": "1.0.0",
@@ -14,7 +14,7 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.4"
         },
         "runtime": {
-          "Experin.PickMyBook.GraphQL.dll": {}
+          "Experion.PickMyBook.GraphQL.dll": {}
         }
       },
       "BananaCakePop.Middleware/16.0.3": {
@@ -488,7 +488,7 @@
     }
   },
   "libraries": {
-    "Experin.PickMyBook.GraphQL/1.0.0": {
+    "Experion.PickMyBook.GraphQL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -2363,9 +2363,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj",
-      "projectName": "Experin.PickMyBook.GraphQL",
-      "projectPath": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\Experin.PickMyBook.GraphQL.csproj",
+      "projectUniqueName": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj",
+      "projectName": "Experion.PickMyBook.GraphQL",
+      "projectPath": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\Experion.PickMyBook.GraphQL.csproj",
       "packagesPath": "C:\\Users\\anish.korah\\.nuget\\packages\\",
       "outputPath": "C:\\OJT\\PickMyBook\\Experin.PickMyBook.GraphQL\\obj\\",
       "projectStyle": "PackageReference",
